@@ -103,21 +103,26 @@ Alongside my engineering roles, I am a **Cyber Security & Ethical Hacking Traine
 
 My training approach emphasizes **real attack scenarios, lab-based learning, and security mindset development**, rather than just tool operation.
 
----
-
-## 🧪 What You’ll Find on My GitHub
-
-This GitHub serves as a **knowledge-sharing and documentation platform**, where I aim to publish:
-
-- Application & API security labs
-- OT and enterprise security notes
-- DevSecOps pipeline examples
-- Security automation scripts
-- Clear explanations of vulnerability behavior, scan results, and false positives
-
-All content is **ethical, sanitized, and educational**.
 
 ---
 
-## 📂 Planned Repository Structure
+## 🎯 Professional Philosophy
+
+- Security must be **practical, explainable, and business-aligned**
+- OT and IT security require **different risk perspectives**
+- Tools support security — **thinking drives it**
+- Knowledge sharing multiplies security impact
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: naveenkolli777@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/naveen-kolli-53a83598/  
+- 📍 Location: Bengaluru, India
+
+---
+
+⭐ Thanks for visiting. Feel free to explore, learn, or connect.
+
 
