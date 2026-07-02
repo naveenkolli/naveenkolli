@@ -3,7 +3,7 @@
 ## Senior Cyber Security Engineer | AppSec | API Security | OT Security | DevSecOps | Trainer
 
 Welcome to my GitHub 👋  
-I am a **Senior Cyber Security Engineer** with **7+ years of hands-on experience** across **Application Security, API Security, OT/ICS Security, Vulnerability Management, and Enterprise Security Engineering**. I focus on solving real-world security problems through practical testing, automation, and clear remediation guidance.
+I am a **Senior Cyber Security Engineer** with **8.5+ years of hands-on experience** across **Application Security, API Security, OT/ICS Security, Vulnerability Management, and Enterprise Security Engineering**. I focus on solving real-world security problems through practical testing, automation, and clear remediation guidance.
 
 ---
 
